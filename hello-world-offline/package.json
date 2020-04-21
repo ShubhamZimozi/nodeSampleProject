@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-offline",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slspress": "^2.2.5"
+  },
+  "devDependencies": {
+    "serverless-offline": "^5.12.1"
+  },
+  "description": ""
+}
